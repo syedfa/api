@@ -4,6 +4,10 @@
 
 This is the REST API for Halal Data project. It is written by using [Koa JS framework](http://koajs.com "Koa JS framework").
 
+## How to contribute
+
+Fork this repo and pull request your changes. This repository is in early phase. The feature for the MVP is listed below.
+
 ## The planned API endpoints
 
 **Venue search API**
