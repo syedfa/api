@@ -5,7 +5,7 @@ if [ $TRAVIS_BRANCH == 'master' ] ; then
   cd _site
   git init
                       
-  git remote add deploy "deploy@128.199.215.215:/home/deploy/node_app/halal_data_api/app"
+  git remote add deploy "deploy@128.199.215.215:/home/deploy/node_app/halal_data_api"
   git config user.name "Travis CI"
   git config user.email "asep@asep.co"
                               
