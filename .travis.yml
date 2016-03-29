@@ -4,8 +4,8 @@ node_js:
 env:
 - CXX=g++-4.8
 addons:
+  ssh_known_hosts: 128.199.215.215
   apt:
-    ssh_known_hosts: 128.199.215.215
     sources:
     - ubuntu-toolchain-r-test
     packages:
